@@ -15,3 +15,6 @@ A DBMS and SQL based system to manage users, attendance records, access logs, an
 
 ## Status
 Project initialized
+
+## Local Update
+This change is made from my laptop.
